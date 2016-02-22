@@ -9,7 +9,7 @@ C3js Charts for Meteor. The library is included as git submodule.
 
 ### Installation
 
-    meteor add emdagon:c3js
+    meteor add xwilders:c3js
 
 ### References
 
