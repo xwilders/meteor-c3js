@@ -1,6 +1,6 @@
 Package.describe({
   name: 'xwilders:c3js',
-  version: '0.0.1',
+  version: '0.0.2',
   // Brief, one-line summary of the package.
   summary: 'C3.js Charts for Meteor',
   // URL to the Git repository containing the source code for this package.
